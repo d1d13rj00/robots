@@ -1,5 +1,18 @@
 # Arduino Robot
 
+## Specs
+
+### Physical structure
+Cheap meccano clones
+
+### Logic
+Arduino UNO used
+
+### Power
+- 9v DC adaptor
+- Planned (battery)
+
+
 ## Videos
 
 * [Video showing test of basic movement](https://www.youtube.com/watch?v=eNViiDj3s-M)
